@@ -15,7 +15,7 @@ This project utilizes **VGG19**, a deep convolutional neural network, for **imag
 ✅ **Evaluation Metrics** like accuracy, precision, recall  
 
 ### 📊 Results  
-🏆 Achieved **XX% accuracy** on the test dataset!  
+🏆 Achieved **87% accuracy** on the test dataset!  
 📈 Check the `Results/` folder for visualizations & performance metrics.
 
 ### 🚀 How to Run  
